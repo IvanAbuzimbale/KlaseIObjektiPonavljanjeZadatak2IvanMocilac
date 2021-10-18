@@ -24,7 +24,7 @@ namespace KlaseIObjektiPonavljanjeZadatak2IvanMocilac
             Console.WriteLine();
 
             Console.WriteLine($"Opseg trokuta je: {opsegTrokuta}");
-            Console.WriteLine($"Opseg kvadrata je: {opsegCetverkuta}");
+            Console.WriteLine($"Opseg četverokuta je: {opsegCetverkuta}");
             Console.ReadKey();
         }
     }
